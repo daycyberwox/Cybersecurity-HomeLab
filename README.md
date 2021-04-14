@@ -16,11 +16,13 @@ For questions and help with the lab, you can join my discord server: https://dis
 # This Project
 This is a instructional step by step process to building a functional **Cybersecurity Homelab** for offensive and defensive security.
 
-The hypervisor for this lab is going to be VMWare Workstation running on a Windows PC.
+My purpose for this lab is to learn more about Security Monitoring and Detection Engineering. 
+
+
+This lab will be running on a Windows PC specifically built for the purpose of labbing.
 
 **PC Parts:** https://pcpartpicker.com/list/xfBQXv
 
-My purpose for this lab is to learn more about Security Monitoring and Detection Engineering. 
 
 This lab consists of:
 
