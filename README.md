@@ -43,9 +43,9 @@ This lab consists of:
   ~ **Ubuntu/Centos/Metasploitable/DVWA/Vulnhub machines:** All these are potential linux machines that can be added to the network for exploitation, detection, or monitoring purposes
 
 
-# Network Design!
+# Network Design
+![Topology](https://user-images.githubusercontent.com/63438773/114724987-b9a41b00-9d01-11eb-9ad8-340ff4d9e5e3.png)
 
-[Topology](https://user-images.githubusercontent.com/63438773/114724852-98432f00-9d01-11eb-9b1d-f88d383cc546.png)
 
 
   
