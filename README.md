@@ -1,26 +1,22 @@
 # About Me
 Hi! I'm Day. 
 
-SOC Analyst & College Sophomore
-
-@daycyberwox 
-
-https://www.instagram.com/daycyberwox
+SOC Analyst & College Student.
 
 https://twitter.com/DayCyberwox 
 
-You can also check out my Youtube Video for a visual step by step guide to this process:
+You can also check out my Youtube Playlist for a visual step by step guide to this process: https://youtube.com/playlist?list=PLDqMNdDvMsRkmtiKcZwbhOz7MeLQE0r3G
 
 For questions and help with the lab, you can join my discord server: https://discord.gg/QWW2wSdDmD
 
 # This Project
 This is a instructional step by step process to building a functional **Cybersecurity Homelab** for offensive and defensive security.
 
-My purpose for this lab is to learn more about Security Monitoring and Detection Engineering. 
+My purpose for this lab is to learn more about Security Monitoring and Detection Engineering.
 
 
 # Hardware
-This lab will be running on a Windows PC specifically built for the purpose of labbing.
+This lab will be running on a Server/PC specifically built for the purpose of labbing.
 
 **PC Parts:** https://pcpartpicker.com/list/xfBQXv
 
