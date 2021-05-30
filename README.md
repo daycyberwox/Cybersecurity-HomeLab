@@ -40,7 +40,7 @@ This lab consists of:
 
 
 # Network Design
-![Topology![Topology with Background](https://user-images.githubusercontent.com/63438773/120088630-37589600-c0b8-11eb-8b56-61d40a3a1ebc.jpg)
+![Topology](https://user-images.githubusercontent.com/63438773/120088630-37589600-c0b8-11eb-8b56-61d40a3a1ebc.jpg)
 
 
 
