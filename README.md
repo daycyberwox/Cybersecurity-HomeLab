@@ -1,11 +1,11 @@
 # About Me
 Hi! I'm Day. 
 
-SOC Analyst & College Student.
+Cyber Threat Analyst & College Student.
 
 https://twitter.com/DayCyberwox 
 
-You can also check out my Youtube Playlist for a visual step by step guide to this process: https://youtube.com/playlist?list=PLDqMNdDvMsRkmtiKcZwbhOz7MeLQE0r3G
+You can also check out my Youtube for a visual step by step guide to this process: https://youtube.com/playlist?list=PLDqMNdDvMsRkmtiKcZwbhOz7MeLQE0r3G
 
 For questions and help with the lab, you can join my discord server: https://discord.gg/QWW2wSdDmD
 
