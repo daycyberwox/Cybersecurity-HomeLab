@@ -1,7 +1,7 @@
 # About Me
 Hi! I'm Day. 
 
-Cyber Threat Analyst & College Student.
+Cloud Threat Detection Engineer & College Student.
 
 https://twitter.com/DayCyberwox 
 
